@@ -1,0 +1,21 @@
+
+[project]
+name = "pinup"
+version = "1.0.1"
+authors = [
+  { name="AdrianofDoom", email="spam@iodisco.com" },
+]
+description = "not yet."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies=[
+    ]
+
+
+classifiers = [
+        "Programming Language :: Python :: Implementation :: PyPy",
+        "Programming Language :: Python :: Implementation :: CPython",
+]
+license = "BSD"
+license-files = ["LICEN[CS]E*"]
+
